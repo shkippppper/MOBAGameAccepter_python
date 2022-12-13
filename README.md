@@ -27,6 +27,7 @@ Download the accept.png file and store it somewhere.
  
  
  TO MAKE IT ACCEPT DOTA 2 GAMES DOWNLOAD dota_accept.png
+ 
  TO MAKE IT ACCEPT LoL GAMES DOWNLOAD lol_accept.png
  
  Since the program detects the picture on active screen you can make it worth with any game with accept mechanic like csgo, valorant and others
