@@ -9,6 +9,7 @@ import time
 pictureFound = True
 LocationOnPc = 'C:\\Users\\akaki\\Desktop\\Akaki\\PYTHON\\DotaAutoAccepter\\accept.png' #This is different for everyone,
 # Just write a path, where you store the uploaded accept.png picture, make sure to use double "\\".  
+# Also note that both the .py and .png files should be in the same directory
 
 while (pictureFound) :
     if(pyautogui.locateCenterOnScreen(LocationOnPc)):
