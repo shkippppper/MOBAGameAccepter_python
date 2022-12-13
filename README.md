@@ -1,4 +1,4 @@
-# Dota2GameAccepter
+# MOBAGameAccepter
 A program that accepts the found games in MOBA
 
 Download the accept.png file and store it somewhere.
