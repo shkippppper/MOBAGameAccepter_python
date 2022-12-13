@@ -3,6 +3,8 @@ A program that accepts the found games in MOBA
 
 Download the accept.png file and store it somewhere.
 
+#NOTE DONT FORGET TO CHANGE THE PNG FILE NAME TO accept.png AND KEEP BOTH THE SCRIPT AND THE PNG IN THE SAME DIRECTORY, OR THE CODE WONT FIND IT.
+
 1) Download VS code (if you dont have already) from here:
 
    https://code.visualstudio.com .
