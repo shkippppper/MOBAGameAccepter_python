@@ -1,5 +1,5 @@
 # Dota2GameAccepter
-A program that accepts the found games in dota2, when you go for a walk (so you don't get a 5 minute ban from queuing)
+A program that accepts the found games in MOBA
 
 Download the accept.png file and store it somewhere.
 
@@ -25,16 +25,16 @@ Download the accept.png file and store it somewhere.
 
  Everything is ready, just run the program when you start the queue, and make sure that dota 2 tab is open, or you could also change the settings inside dota 2, (Settings -> OPTIONS -> TO ADVANCED OPTIONS -> GAME ->Bring Dota 2 to front when match found
  
+ 
+ TO MAKE IT ACCEPT DOTA 2 GAMES DOWNLOAD dota_accept.png
+ TO MAKE IT ACCEPT LoL GAMES DOWNLOAD lol_accept.png
+ 
+ Since the program detects the picture on active screen you can make it worth with any game with accept mechanic like csgo, valorant and others
+ 
+ 
  ENJOY, GL, Dont feed.
  
  #shkipper
- Follow me on socials
-
- https://www.reddit.com/user/shkipper/
-
- https://www.instagram.com/akakititberidze/
-
- https://github.com/shkippppper
 
 
 
